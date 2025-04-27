@@ -20,5 +20,7 @@ A simple and clean note-taking Android app built using **Java** and **Firebase R
 ## 📸 Screenshots
 
 ![Screenshot_2025-04-27-17-42-43-75_e135f6f057ae6b59c7d93a415eb432a7](https://github.com/user-attachments/assets/0cae6445-5535-4841-9191-1b52e453e4bb)
+![Screenshot_2025-04-27-18-38-58-53_e135f6f057ae6b59c7d93a415eb432a7](https://github.com/user-attachments/assets/da567e40-5311-4f47-8d47-1a5dfd3fb745)
+
 
 
