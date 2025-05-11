@@ -19,6 +19,7 @@ public class AddEditNoteActivity extends AppCompatActivity {
     Button btnSave;
     DatabaseReference notesRef;
     String noteId = null;
+    String userId = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
